@@ -20,4 +20,6 @@ members : [
 
 8.rs.initiate(configuration) 
 
+9. we can enaable reading from secondary server by writing command rs.slaveOK(true)
+
 One server will start as primary and others will be secondary
